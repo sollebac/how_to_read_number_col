@@ -1,7 +1,6 @@
 # how_to_read_number_col
-VersiVersion 1.0  
-Solo lee el numero de columnas y el numero de lineas que contiene 
-un archivo en fortran 
+Version 1.0  
+Solo lee el numero de columnas y el numero de line 
 
 in other compiler  maybe you need to use the option -PEPCF90  
 This is free software;.There is NO warranty 
